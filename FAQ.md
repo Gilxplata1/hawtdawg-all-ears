@@ -7,6 +7,10 @@
 
 \f0\fs24 \cf0 # FAQ\
 \
-## How many photos can I post? \
+## How many photos can I post? 
+
+## Where do I list my fav treats
+
+\
 \
 }
